@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A joyful message sent from the Kings Most Excellent Majesty, to Sir John Hotham wherein he declares his last and full resolution concerning the said Sir Iohn, and the town of Hvll : it being comfortable and welcome tydings to all His Majesties loving subjects : together with Sir Iohn Hothams answer thereunto : likewise His Majesties resolution concerning the Earl of Essex, lord generall of the army now setting forth.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18999</idno><idno type="EEBO-CITATION">12277662</idno>
+  <idno type="VID">197409</idno>
+  <idno type="EEBO-PROQUEST">2240962077</idno>
+  
+            <idno type="STC">Wing C2356</idno>
+            <idno type="OCLC">12277662</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197409)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A joyful message sent from the Kings Most Excellent Majesty, to Sir John Hotham wherein he declares his last and full resolution concerning the said Sir Iohn, and the town of Hvll : it being comfortable and welcome tydings to all His Majesties loving subjects : together with Sir Iohn Hothams answer thereunto : likewise His Majesties resolution concerning the Earl of Essex, lord generall of the army now setting forth.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Seymour,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 4, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="personal_name">Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197409:1"/>
+            <pb facs="tcp:197409:1"/>
+            <p>A JOYFUL MESSAGE SENT FROM THE KINGS MOST Excellent Majesty, to Sir <hi>John Hotham;</hi> Wherin he Declares His last and full Resolution concerning the said Sir <hi>Iohn,</hi> and the Town of <hi>HƲLL.</hi>
+            </p>
+            <p>
+               <hi>It being Comfortable and Welcome Tydings to all His Majesties loving Subjects.</hi>
+            </p>
+            <p>Together with Sir <hi>Iohn Hothams</hi> Answer thereunto.</p>
+            <p>Likewise his Majesties <hi>Resolution</hi> concerning the Earl of <hi>Essex,</hi> Lord Generall of the Army, now setting forth.</p>
+            <p>
+               <hi>Ordered by the Lords and Commons, that this be printed and published.</hi>
+            </p>
+            <p>IOHN BROWN Cler. Parliament.</p>
+            <p>
+               <hi>Printed for</hi> Richard Seymour, <hi>August,</hi> 4. 1642,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197409:2"/>
+            <pb n="1" facs="tcp:197409:2"/>
+            <head>A Joyfull MESSAGE SENT <hi>FROM THE KINGS Most Excellent Majesty, to Sir John Hotham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Gracious Majesty hath oftentimes bin pleased to ac<g ref="char:EOLhyphen"/>quaint all his lo<g ref="char:EOLhyphen"/>ving Subjects with His Royall Inten<g ref="char:EOLhyphen"/>tions and Determi<g ref="char:EOLhyphen"/>nations concerning Sir <hi>John Hotham</hi> and hath also Declared his Resolution con<g ref="char:EOLhyphen"/>cerning
+<pb facs="tcp:197409:3"/>the said Sir <hi>John,</hi> who by force of Arms kept his Majesty from entring into <hi>Hull.</hi>
+            </p>
+            <p>This great Attempt against his Ma<g ref="char:EOLhyphen"/>jesty, did not a little provoke his High<g ref="char:EOLhyphen"/>nesse to wrath, who vowed to have Ju<g ref="char:EOLhyphen"/>stice against, and for the obtaining of the same, he would venter his Royall Person.</p>
+            <p>And wheras his Majesty hath decla<g ref="char:EOLhyphen"/>red. That untill he hath Justice against Sir <hi>Iohn Hotham,</hi> he could conceive no o<g ref="char:EOLhyphen"/>therwise but that he was protected and upholden by both Houses of Parliament, but yet out of his Princely consideration he hath bin pleased to recall those pro<g ref="char:EOLhyphen"/>testations, and as he hath declared to the Inhabitants of <hi>Hull</hi> to grant them a free pardon, if that they will lay down their arms, and humble themselves unto him; So he is graciously plsasedte propound the like propositions to Sir <hi>Iohn,</hi> the which be set down at length in the Re<g ref="char:EOLhyphen"/>lation following.</p>
+            <pb facs="tcp:197409:3"/>
+            <p>But the greatest misery which is now comming upon us, is a Civill Warre, occasioned by the proceedings of the malignant Party, who hath so farre in<g ref="char:EOLhyphen"/>censt his Majesty against his great coun<g ref="char:EOLhyphen"/>cell the high Court of Parliament, that they have got a great misunderstanding betwixt the Head and the Body, and have also raised a great Number of Forces in a Warlike manner in severall Counties of this Kingdome, which hath caused many Fears and Jealousies to arise in the hearts of his Majesties loving Sub<g ref="char:EOLhyphen"/>jects.</p>
+            <p>But because I will not be too tedious nor deviate too far from that which is before made mention of, I will describe and lay open unto the Courteous Rea<g ref="char:EOLhyphen"/>der, the passages that have hapned very lately betwixt his Royall Majesty, and Sir <hi>Iohn Hotham,</hi> being comfortable ty<g ref="char:EOLhyphen"/>dings to all true-hearted Protestants, as will plainly appear by these particulars following.</p>
+            <pb n="4" facs="tcp:197409:4"/>
+            <p>His Majesty having taken into consi<g ref="char:EOLhyphen"/>deration the Procendings of Sir <hi>John Hotham,</hi> and the Trust that were reposed in him by the Honourable Court of <hi>Parliament;</hi> after some serious consul<g ref="char:EOLhyphen"/>ration therupon, there arose these Com<g ref="char:EOLhyphen"/>fortable Drops from His Majesties Roy<g ref="char:EOLhyphen"/>all Breast,</p>
+            <p>That He was Resolved to send a Message to Sir <hi>John Hotham,</hi> to Declare His will and pleasure unto him, and to propound these following <hi>Propositions</hi> unto him.</p>
+            <p n="1">1. <hi>That he would be pleased to deliver up the Town of Hull unto his Majesty, and to condiscend unto these his Desires, which if he would, His Maiesty doth promise, That he will grant unto him a free pardon.</hi>
+            </p>
+            <p>The Messenger having delivered this Message to Sir <hi>John Hotham,</hi> after some small time in consultation therupon, Sir <hi>John</hi> returned this Answer.</p>
+            <p>
+               <hi>That for the trust Reposed in him by the high and honourable Court of Parliament,
+<pb n="5" facs="tcp:197409:4"/>he will not betray; neither will hee prove himself a disloyall Subiect to his Maiesty, but will deliver and resign the said Town up unto him, if that the Parliament will give him Order for the so doing, otherwise he can<g ref="char:EOLhyphen"/>not.</hi>
+            </p>
+            <p>This is the Message which His Roy<g ref="char:EOLhyphen"/>all Majesty sent to Sir <hi>Iohn Hotham,</hi> to<g ref="char:EOLhyphen"/>gether with the Answer which Sir <hi>Iohn</hi> returned to His Majesty.</p>
+            <div type="declaration">
+               <head>His Maiesties Resolution concerning his Excellence the Earl of Essex.</head>
+               <p>THe Kings Majesty having taken into consideration the service of the Earl of <hi>Essex,</hi> was not well pleased therat, but Resolved to discharge him of his place, which he did accordingly, a man of high Honour, his Majesty was also Resolved to make mention of the said Earl in his Answer to the Parliament, there deela<g ref="char:EOLhyphen"/>ring the Resolution of both houses, <hi>that they would live and dye with the Earle of
+<pb n="6" facs="tcp:197409:5"/>Essex, whom they have appointed Generall, for the defence of his Maiesty, the Kingdome and both houses of Parliament.</hi>
+               </p>
+               <p>His Majesty hath displaced divers o<g ref="char:EOLhyphen"/>ther great Lords as the Earl of <hi>Northum<g ref="char:EOLhyphen"/>berland, Pembroke,</hi> and <hi>Holland,</hi> for no o<g ref="char:EOLhyphen"/>ther cause, but discharging their Con<g ref="char:EOLhyphen"/>science in <hi>Parliament.</hi>
+               </p>
+               <p>Likewise His Majesty doth Declare, concerning his raising of Forces, that what he hath done, is but in Order to his own defence.</p>
+               <p>And his Majesty no longer desires the blessing and protection of Almigh<g ref="char:EOLhyphen"/>ty God, upon himself and his posterity than he and they shall solemnly ob<g ref="char:EOLhyphen"/>serve the due execurion of the Laws, in defence of <hi>Parliaments,</hi> and the just Li<g ref="char:EOLhyphen"/>berties and Priviledges therof.</p>
+               <closer>
+                  <hi>Ordered that this be printed and published.</hi>
+                  <signed>Hen. Elsing Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
